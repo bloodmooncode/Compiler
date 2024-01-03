@@ -1,0 +1,11 @@
+int a = 1;
+int b = 0;
+int add() {
+    int c = 2;
+    int d = 3;
+    d = 4;
+};
+int main() {
+    return a;
+};
+
